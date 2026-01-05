@@ -1,0 +1,1 @@
+This is a single folder containing all the work that I have done ever since the JAVASCRIPT Course started
